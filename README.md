@@ -10,3 +10,8 @@
 ```
 git clone git@github.com:tsubasa1122/tinder-app.git
 ```
+
+今回、Tinderのスワイプを実現するために以下のライブラリを使用した
+```
+https://github.com/do-web/jTinder
+```
